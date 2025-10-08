@@ -30,9 +30,9 @@ A regional bank aimed to convert liability customers (depositors) into asset cus
 > Business decision: Favor higher recall to maximize campaign reach and minimize lost revenue.
 
 ## 🧠 Business Recommendations  
-- Target marketing toward high-propensity segments identified by the model  
-- Use model outputs to generate best/likely/worst-case campaign ROI scenarios  
-- Extend modeling to include repayment risk or lifetime value for deeper financial planning
+- Target marketing toward high-propensity segments identified by the model.  
+- Use model outputs to generate best/likely/worst-case campaign ROI scenarios.  
+- Extend modeling to include repayment risk or lifetime value for deeper financial planning.
 
 ## 📁 Repository Contents  
 - `notebook.ipynb`: Full EDA, preprocessing, and model build  
