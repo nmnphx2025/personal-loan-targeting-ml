@@ -44,7 +44,7 @@ A regional bank aimed to convert liability customers (depositors) into asset cus
 - Source: Bootcamp dataset derived from Kaggle.   
 - This version is sanitized and synthetic for public sharing  
 - No proprietary or personally identifiable information included  
-- See `data/synthetic_personal_loan.csv` for the version used in this project
+- See `data/loan_modelling.csv` for the version used in this project
 
 ## 🛠️ How to Run  
 1. Clone the repo  
