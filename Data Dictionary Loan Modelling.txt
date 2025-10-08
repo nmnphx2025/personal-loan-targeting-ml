@@ -1,0 +1,26 @@
+# Data Dictionary — Loan_Modelling.csv
+
+This dataset contains synthetic depositor records used to model personal loan acceptance. It was derived from a bootcamp project and sanitized for public sharing. No proprietary or personally identifiable information is included.
+
+Column Name         | Description
+--------------------|------------------------------------------------------------
+ID                  | Unique customer identifier
+Age                 | Age of the customer (years)
+Experience          | Years of professional experience (removed due to correlation with Age)
+Income              | Annual income in thousands (USD)
+ZIP Code            | Customer ZIP code (removed in sanitized version)
+Family              | Number of family members (1–4)
+CCAvg               | Average monthly credit card spending (USD)
+Education           | Education level (1 = Undergrad, 2 = Graduate, 3 = Advanced/Professional)
+Mortgage            | Mortgage amount (USD)
+Securities_Account  | Binary flag (1 = has securities account, 0 = does not)
+CD_Account          | Binary flag (1 = has certificate of deposit account, 0 = does not)
+Online              | Binary flag (1 = uses online banking, 0 = does not)
+CreditCard          | Binary flag (1 = has credit card with bank, 0 = does not)
+Personal_Loan       | Target variable (1 = accepted loan offer, 0 = did not)
+
+Note:
+- Experience was removed due to high correlation with Age.
+- ZIP Code was excluded to avoid location-based bias and ensure privacy.
+- All monetary values are in USD.
+- Dataset is synthetic and intended for educational and demonstration purposes only.
