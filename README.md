@@ -41,7 +41,7 @@ A regional bank aimed to convert liability customers (depositors) into asset cus
 - `README.md`: Project summary and instructions
   
 - ## 📚 Dataset Notes  
-- Source: Bootcamp dataset derived from [Kaggle’s Personal Loan Campaign dataset](https://www.kaggle.com/datasets)  
+- Source: Bootcamp dataset derived from Kaggle.   
 - This version is sanitized and synthetic for public sharing  
 - No proprietary or personally identifiable information included  
 - See `data/synthetic_personal_loan.csv` for the version used in this project
