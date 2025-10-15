@@ -37,7 +37,7 @@ A regional bank aimed to convert liability customers (depositors) into asset cus
 ## 📁 Repository Contents  
 - `notebook.ipynb`: Full EDA, preprocessing, and model build  
 - `data/`: Synthetic dataset used for training and testing  
-- `figures/`: Exported visuals (feature importance, confusion matrix, EDA plots)  
+- `project brief/`: PDF overview of project
 - `README.md`: Project summary and instructions
   
 - ## 📚 Dataset Notes  
